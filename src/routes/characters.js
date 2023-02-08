@@ -11,7 +11,7 @@ const getCharacters = async () => {
       name: ch.name,
       image: ch.image,
       gender: ch.gender,
-      died: ch.died,
+      height: ch.height,
       species: ch.species
     }
     allCharacters.push(allData);
